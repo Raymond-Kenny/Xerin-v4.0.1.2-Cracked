@@ -2,3 +2,5 @@ New "Generation" of Xerin has been released by SkidInx LLC. this time even more 
 This guy was making fun of Robustify's renamer
 and then added it to his own obfuscator
 this is absolute kino
+also join the discord
+https://discord.gg/Gc8HTftSpG
